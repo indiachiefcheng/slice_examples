@@ -1,1 +1,1 @@
-# slice_examples
+usage and some algrithems of slice
